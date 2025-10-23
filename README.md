@@ -1,7 +1,7 @@
 # 💬 Discord Responsivo
 ## 🌐 Demonstração
 
-🔗 **[Acesse o site aqui](https://detofollisilva.github.io/CoffeeShop/](https://detofollisilva.github.io/dicorddesafioDIO/)**  
+🔗 **[Acesse o site aqui]((https://detofollisilva.github.io/dicorddesafioDIO/))**  
 
 
 <img width="1893" height="418" alt="image" src="https://github.com/user-attachments/assets/2a2367da-7a4e-4ce3-8ebb-9e4d6219f92e" />
